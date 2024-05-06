@@ -48,7 +48,7 @@ function Questions40({ allQuestions }) {
     };
 
     return (
-        <div id="right-panel" style={{ padding: "4%", width: "88%", color: "rgb(63, 63, 63)" }}>
+        <div id="right-panel" style={{ padding: "4%", color: "rgb(63, 63, 63)" }}>
             <h1>{result == null ? null : result + "%"}</h1>
             {data.map((item, index) => (
                 <Card key={index} style={{ marginBottom: "1%", textAlign: "left", paddingLeft: "3%", paddingTop: "3%", paddingBottom: "3%" }}>

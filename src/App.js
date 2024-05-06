@@ -7,13 +7,21 @@ import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import HomeIcon from '@mui/icons-material/Home';
-import Questions40 from "./questrions40/Questions40";
 import QuizIcon from '@mui/icons-material/Quiz';
+import AppBar from '@mui/material/AppBar';
+import Toolbar from '@mui/material/Toolbar';
+import Typography from '@mui/material/Typography';
+import Tabs from '@mui/material/Tabs';
+import Tab from '@mui/material/Tab';
+import Questions40 from "./questrions40/Questions40";
+import SingleQuestion from "./singleQuestion/singleQuestion";
+import HelpCenterIcon from '@mui/icons-material/HelpCenter';
 import "./App.css";
 
 function App() {
   const [currentView, setCurrentView] = useState("home");
   const [data, setData] = useState([]);
+  
 
   useEffect(() => {
     const fetchData = async () => {
@@ -32,26 +40,25 @@ function App() {
   return (
     <div className="App">
       <Router>
-      <div className="container">
-        <div className="bg" id="navigation-panel">
-          <Divider />
-            <List>
-              <ListItem key="Home" disablePadding>
-                <ListItemButton component={Link} to="/" onClick={() => handleViewChange("home")}>
-                  <ListItemIcon>
-                      <QuizIcon/>              
-                  </ListItemIcon>
-                  <ListItemText primary="40 Questions" />
-                </ListItemButton>
-              </ListItem>
-            </List>
-          <Divider /> 
+        <AppBar position="static">
+            <Toolbar>
+              <Typography variant="h6">
+                Quiz App
+              </Typography>
+              <div style={{ flexGrow: 1 }} />
+              <Tabs value={currentView} onChange={handleViewChange} textColor="inherit">
+                <Tab label="40 Questions" icon={<QuizIcon />} component={Link} to="/" />
+                <Tab label="Single question" icon={<HelpCenterIcon />} component={Link} to="/singleQuestion" />
+              </Tabs>
+            </Toolbar>
+          </AppBar>
+        <div className="container">
+          <Routes>
+            <Route path="/" element={<Questions40 allQuestions={data}/>} />
+            <Route path="/singleQuestion" element={<SingleQuestion allQuestions={data}/>} />
+          </Routes>
         </div>
-        <Routes>
-          <Route path="/" element={<Questions40 allQuestions={data}/>} />
-        </Routes>
-      </div>
-    </Router>
+      </Router>
     </div>
   );
 }
