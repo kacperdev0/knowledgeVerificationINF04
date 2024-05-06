@@ -1,0 +1,2004 @@
+[
+    {
+      "question": "1. Przedstawiony zapis w języku C# oznacza definicję klasy Car, która:",
+      "options": [
+        "A. jest klasą bazową (nie dziedziczy po żadnej klasie)",
+        "B. jest zaprzyjaźniona z klasą Vehicle",
+        "C. dziedziczy po Vehicle",
+        "D. korzysta z pól prywatnych klasy Vehicle"
+      ],
+      "correct": 2,
+      "image": "inf04/1.jpg"
+    },
+    {
+      "question": "2. Mechanizm obietnic (ang. promises) w języku JavaScript ma na celu",
+      "options": [
+        "A. zastąpić mechanizm dziedziczenia w programowaniu obiektowym.",
+        "B. obsłużyć przechwytywanie błędów aplikacji.",
+        "C. poprawić czytelność kodu synchronicznego.",
+        "D. obsłużyć funkcjonalność związaną z kodem asynchronicznym."
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "3. Zapisane w kodzie szesnastkowym składowe RGB koloru #AA41FF po przekształceniu do kodu dziesiętnego wynoszą kolejno",
+      "options": [
+        "A. 160, 64, 255",
+        "B. 160, 65, 255",
+        "C. 170, 64, 255",
+        "D. 170, 65, 255"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "4. Oznaczeniem komentarza jednoliniowego w języku Python jest:",
+      "options": [
+        "A. #",
+        "B. !",
+        "C. \"\"",
+        "D. //"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "5. Aplikacje Web wykonane we frameworku Angular lub bibliotece React i działające na domyślnych ustawieniach portów można uruchomić na lokalnym serwerze, wpisując w przeglądarce",
+      "options": [
+        "A. localhost:8000 (React) lub localhost:49887 (Angular)",
+        "B. localhost:8080 (React) lub localhost:8000 (Angular)",
+        "C. localhost:3000 (React) lub localhost:4200 (Angular)",
+        "D. localhost:5001 (React) lub localhost:8080 (Angular)"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "6. Co można powiedzieć o metodach klasy Point?",
+      "options": [
+        "A. Są przeładowane (przeciążone).",
+        "B. Zawierają błąd, gdyż nazwy metod muszą się różnić.",
+        "C. Zawierają przeładowanie (przeciążenie) operatora.",
+        "D. Pełnią funkcję konstruktorów w zależności od liczby parametrów."
+      ],
+      "correct": 0,
+      "image": "inf04/6.jpg"
+    },
+    {
+      "question": "7. Aby zaprojektować zestaw danych do zainicjowania algorytmu sortowania bąbelkowego tablicy, należy zastosować przynajmniej typy:",
+      "options": [
+        "A. jeden tablicowy, dwa liczbowe do kontroli pętli, jeden do zamiany elementów miejscami",
+        "B. jeden tablicowy, jeden liczbowy do kontroli pętli, dwa do zamiany elementów miejscami",
+        "C. dwa tablicowe, jeden liczbowy do kontroli pętli",
+        "D. dwa tablicowe, dwa do zamiany elementów miejscami"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "8. Utworzenie procedury składowej o nazwie dodajUsera w MS SQL rozpoczyna się od poleceń",
+      "options": [
+        "A. add dodajUsera procedure",
+        "B. create procedure dodajUsera",
+        "C. create dodajUsera procedure",
+        "D. add procedure dodajUsera"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "9. Okna dialogowe niemodalne służą do",
+      "options": [
+        "A. kontrolowania stanu aplikacji poprzez systemy menu.",
+        "B. blokowania działania aplikacji na czas wprowadzenia i zatwierdzenia danych.",
+        "C. kontrolowania ustawień aplikacji, jako okno pozostające otwarte na ekranie przez cały czas trwania aplikacji.",
+        "D. wyświetlania komunikatów z koniecznością ich potwierdzenia, aby dalej kontynuować działanie aplikacji."
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "10. Na podstawie opisu umieszczonego w ramce, wskaż który rysunek przedstawia element odpowiadający klasie Badge zdefiniowanej w bibliotece Bootstrap:",
+      "options": [
+        "A. A",
+        "B. B",
+        "C. C",
+        "D. D"
+      ],
+      "correct": 1,
+      "image": "inf04/10.jpg"
+    },
+    {
+      "question": "11. Rekomendacje standardu WCAG 2.0 związane z percepcją dotyczą:",
+      "options": [
+        "A. przedstawienia komponentów interfejsu użytkownika",
+        "B. zapewnienia wystarczającej ilości czasu na przeczytanie i przetworzenie treści",
+        "C. zapewnienia interakcji pomiędzy komponentami użytkownika przy użyciu klawiatury",
+        "D. zrozumienia i rzetelności w dostarczonych treściach na stronie"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "12. Przedstawione oznaczenie praw Creative Commons, pozwala na darmowe korzystanie z utworu:",
+      "options": [
+        "A. pod warunkiem pozostawienia go w oryginalnej postaci",
+        "B. w celu zmiany lub remiksowania",
+        "C. w celach komercyjnych",
+        "D. pod warunkiem udostępnienia go na tej samej licencji"
+      ],
+      "correct": 1,
+      "image": "inf04/12.jpg"
+    },
+    {
+      "question": "13. W metodach klasy GoldCustomer są widoczne jedynie pola",
+      "options": [
+        "A. GoldPoints, Name, Id, Age",
+        "B. GoldPoints, Name",
+        "C. GoldPoints, Name, Id",
+        "D. GoldPoints"
+      ],
+      "correct": 2,
+      "image": "inf04/13.jpg"
+    },
+    {
+      "question": "14. Przedstawiony kod XAML zostanie wyrenderowany jako:",
+      "options": [
+        "A. A",
+        "B. B",
+        "C. C",
+        "D. D"
+      ],
+      "correct": 3,
+      "image": "inf04/14.jpg"
+    },
+    {
+      "question": "15. Rezultatem wykonania przedstawionego fragmentu kodu jest wypisanie liczb z przedziału od 2 do 20, które są",
+      "options": [
+        "A. podzielne przez wartość zmiennej test.",
+        "B. parzyste.",
+        "C. pierwsze.",
+        "D. podzielne przez wartość zmiennej check."
+      ],
+      "correct": 2,
+      "image": "inf04/15.jpg"
+    },
+    {
+      "question": "16. Przedstawiony fragment kodu w języku Java wypełnia tablicę wartościami:",
+      "options": [
+        "A. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+        "B. 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+        "C. 2, 2, 2, 2, 2, 2, 2, 2, 2, 2",
+        "D. 2, 4, 6, 8, 10, 12, 14, 16, 18, 20"
+      ],
+      "correct": 3,
+      "image": "inf04/16.jpg"
+    },
+    {
+      "question": "17. Metoda poszukiwań w tablicach posortowanych, która polega na podzieleniu tablicy na kilka bloków i wyszukaniu liniowym tylko w tym bloku, w którym docelowy element może się znajdować, w języku angielskim nosi nazwę",
+      "options": [
+        "A. Exponential search.",
+        "B. Ternary search.",
+        "C. Binary search.",
+        "D. Jump search."
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "18. Na przedstawionych funkcjonalnie równoważnych sobie kodach źródłowych w wyniku wykonania operacji w zmiennej b zostanie zapisana wartość:",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 596",
+        "D. 5.96"
+      ],
+      "correct": 0,
+      "image": "inf04/18.jpg"
+    },
+    {
+      "question": "19. Oprogramowaniem do śledzenia błędów oraz do zarządzania projektami jest:",
+      "options": [
+        "A. Bugzilla",
+        "B. Jasmine",
+        "C. Git",
+        "D. Jira"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "20. Aby utworzyć aplikację mobilną typu cross-platform w języku C# można zastosować:",
+      "options": [
+        "A. platformę Xamarin",
+        "B. środowisko XCode",
+        "C. środowisko Android Studio",
+        "D. platformę React Native"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "21. Która struktura danych może być zaimplementowana przy wykorzystaniu jedynie wymienionych metod?",
+      "options": [
+        "A. tablica.",
+        "B. stos.",
+        "C. kolejka FIFO.",
+        "D. drzewo binarne."
+      ],
+      "correct": 1,
+      "image": "inf04/21.jpg"
+    },
+    {
+      "question": "22. Obiektowe podejście do rozwiązywania problemów obejmuje między innymi:",
+      "options": [
+        "A. klasy, obiekty i hermetyzację",
+        "B. pola, metody, rekurencję i kwerendy",
+        "C. wyzwalacze i polimorfizm",
+        "D. zmienne, procedury i funkcje"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "23. Przedstawiona metoda jest implementacją algorytmu",
+      "options": [
+        "A. sortującego napis od znaku o najniższym kodzie ASCII do znaku o najwyższym kodzie.",
+        "B. sprawdzającego czy napis jest palindromem.",
+        "C. wyszukującego znak w napisie.",
+        "D. odwracającego napis."
+      ],
+      "correct": 3,
+      "image": "inf04/23.jpg"
+    },
+    {
+      "question": "24. Przedstawiony cytat jest opisem metodyki RAD. Rozwinięcie tego skrótu można przetłumaczyć na język polski jako:",
+      "options": [
+        "A. szybki rozwój aplikacji",
+        "B. środowisko szybkiego programowania",
+        "C. środowisko rozwijania aplikacji",
+        "D. zintegrowane środowisko programistyczne"
+      ],
+      "correct": 0,
+      "image": "inf04/25.jpg"
+    },
+    {
+      "question": "25. Cechami dobrego negocjatora są:",
+      "options": [
+        "A. intuicja, cierpliwość, asertywność",
+        "B. asertywność, pesymizm, buta",
+        "C. dobra reputacja, przekora, porywczość",
+        "D. lojalność, nieśmiałość, uczciwość"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "26. Przedstawiony wykres obrazuje wyniki testów:",
+      "options": [
+        "A. użyteczności",
+        "B. funkcjonalności",
+        "C. wydajnościowych",
+        "D. bezpieczeństwa"
+      ],
+      "correct": 2,
+      "image": "inf04/27.jpg"
+    },
+    {
+      "question": "27. W środowisku IDE do tworzenia aplikacji okienkowych utworzono okno Form1. Aby zmienić ustawienia, kolejno: nazwa okna widoczna na górnej belce, domyślny kursor na strzałkę oraz kolor tła okna, należy zmodyfikować następujące pola okna Properties:",
+      "options": [
+        "A. Text, UseWaitCursor, BackColor.",
+        "B. (Name), UseWaitCursor, BackgroundImage.",
+        "C. Text, Cursor, BackColor.",
+        "D. (Name), Cursor, BackgroundImage."
+      ],
+      "correct": 2,
+      "image": "inf04/28.jpg"
+    },
+    {
+      "question": "28. Zastosowanie typu DECIMAL języka SQL wymaga wcześniejszego zdefiniowania długości (liczby cyfr) przed przecinkiem oraz długości cyfr po przecinku. Jest to zapis:",
+      "options": [
+        "A. logiczny",
+        "B. łańcuchowy",
+        "C. stałoprzecinkowy",
+        "D. zmiennoprzecinkowy"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "29. Przedstawiony algorytm może być zaimplementowany w języku Java w oparciu o instrukcję:",
+      "options": [
+        "A. while",
+        "B. try",
+        "C. switch",
+        "D. if"
+      ],
+      "correct": 0,
+      "image": "inf04/30.jpg"
+    },
+    {
+      "question": "30. Przedstawione równoważne funkcjonalnie fragmenty kodu w bibliotece React.js oraz we frameworku Angular mają za zadanie wyświetlić",
+      "options": [
+        "A. jedynie przycisk i obsłużyć generowane nim zdarzenie click.",
+        "B. liczbę kliknięć przycisku.",
+        "C. liczbę 0 po przyciśnięciu przycisku.",
+        "D. jedynie napis BTN_1."
+      ],
+      "correct": 1,
+      "image": "inf04/31.jpg"
+    },
+    {
+      "question": "31. Dane z serwera do aplikacji front-end można przesłać za pomocą:",
+      "options": [
+        "A. metody POST",
+        "B. protokołu SSH",
+        "C. formatu JSON",
+        "D. biblioteki jQuery"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "32. Programista może zastosować framework Angular w celu implementacji aplikacji:",
+      "options": [
+        "A. mobilnej",
+        "B. desktopowej",
+        "C. typu front-end",
+        "D. typu back-end"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "33. Przedstawiony fragment kodu z Android Studio implementuje metodę nasłuchującą do obsługi zdarzenia:",
+      "options": [
+        "A. wybrania daty",
+        "B. wciśnięcia przycisku",
+        "C. zmiany pola edycyjnego",
+        "D. przełączenia kontrolki Switch"
+      ],
+      "correct": 1,
+      "image": "inf04/34.jpg"
+    },
+    {
+      "question": "34. Poszkodowanego należy ułożyć w pozycji bocznej bezpiecznej w przypadku:",
+      "options": [
+        "A. omdlenia, gdy osoba oddycha",
+        "B. omdlenia i braku tętna",
+        "C. urazu pleców, gdy osoba jest przytomna",
+        "D. uszkodzenia kręgosłupa"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "35. Na dwóch przykładach przedstawiono mechanizm o nazwie Binding. Ma on na celu",
+      "options": [
+        "A. obsługiwanie zdarzenia kontrolek interfejsu użytkownika wywołując odpowiednie funkcje.",
+        "B. wiązanie i eksportowanie plików z różnych modułów aplikacji.",
+        "C. obsługiwanie mechanizmu obietnic (promises) lub obserwatora (observable) w programowaniu asynchronicznym.",
+        "D. wiązanie właściwości (property) elementu interfejsu użytkownika z danymi bądź właściwością innego obiektu."
+      ],
+      "correct": 3,
+      "image": "inf04/36.jpg"
+    },
+    {
+      "question": "36. Przedstawiony diagram Gantta dotyczy projektu informatycznego. Zakładając, że każdy członek zespołu ma wystarczające umiejętności, aby wykonać każde z zadań oraz do każdego z zadań można przydzielić tylko jedną osobę, która poświęca na zadanie cały dzień pracy, to minimalnie zespół musi liczyć:",
+      "options": [
+        "A.  5 osób",
+        "B. 4 osoby",
+        "C. 1 osobę",
+        "D. 2 osoby"
+      ],
+      "correct": 3,
+      "image": "inf04/37.jpg"
+    },
+    {
+      "question": "37. Jednym z etapów publikacji mobilnej w sklepie Google Play są testy Beta, których cechą charakterystyczną jest to, że są one:",
+      "options": [
+        "A. podzielone na testy funkcjonalne, wydajnościowe i skalowalności",
+        "B. przeprowadzane w oparciu o dokument z przypadkami testowymi",
+        "C. wykonane przez grupę docelowych użytkowników aplikacji",
+        "D. wykonywane przez grupę zatrudnionych testerów z firmy Google"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "38. Kolor Pale Green w systemie RGB ma postać RGB(152, 251, 152). Kod szesnastkowy tego koloru wynosi:",
+      "options": [
+        "A. 98 FE 98",
+        "B. 98 FB 98",
+        "C. A0 FB A0",
+        "D. A0 FE A0"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "39. Modyfikator dostępu poprzedzający definicję metody Dodaj() zdefiniowanej w klasie Kalkulator powoduje, że:",
+      "options": [
+        "A. jest ona dostępna w programie głównym i może być wywołana na rzecz instancji klasy Kalkulator",
+        "B. nie jest ona dostępna z poziomu klas, które są zaprzyjaźnione z klasą Kalkulator",
+        "C. nie jest ona dostępna w klasach dziedziczących po klasie Kalkulator",
+        "D. jest ona dostępna wewnątrz klasy oraz wewnątrz klas dziedziczących po klasie Kalkulator"
+      ],
+      "correct": 3,
+      "image": "inf04/40.jpg"
+    },
+    {
+      "question": "40. Środowiskiem natywnym do programowania aplikacji desktopowych za pomocą języka C# jest:",
+      "options": [
+        "A. MS Visual Studio",
+        "B. NetBeans",
+        "C. Eclipse",
+        "D. PyCharm"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "41. W którym modelu Cyklu Życia Projektu Informatycznego występuje etap analizy ryzyka?",
+      "options": [
+        "A. W spiralnym.",
+        "B. W kaskadowym.",
+        "C. W modelu Fry’ego",
+        "D. W modelu z prototypem."
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "42. Na obrazie przedstawiono fragment emulacji iOS z kontrolką. Który kod XAML opisuje tę kontrolkę?",
+      "options": [
+        "A. < Stepper Increment= \"1\" / >",
+        "B. < Stepper Increment= \"1\" / >",
+        "C. < Switch IsToggled= \"true\" / >",
+        "D. < Entry IsPassword= \"true\" / >"
+      ],
+      "correct": 2,
+      "image": "inf04/43.jpg"
+    },
+    {
+      "question": "43. Który z wymienionych algorytmów działających na tablicy jednowymiarowej ma złożoność obliczeniową O(n2)?",
+      "options": [
+        "A. Wyszukiwanie binarne.",
+        "B. Wypisanie elementów.",
+        "C. Sortowanie bąbelkowe.",
+        "D. Sortowanie szybkie."
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "44. Stosowanie wzorca Obserwator w programowaniu aplikacji WEB ma na celu:",
+      "options": [
+        "A. obsługę funkcji synchronicznych w kodzie aplikacji",
+        "B. powiadamianie obiektów o zmianie stanu innych obiektów",
+        "C. obserwowanie interakcji użytkownika i wysyłanie wyjątków",
+        "D. dopasowanie interfejsu użytkownika do różnych typów użytkowników"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "45. Pierwotnym przeznaczeniem środowisk IDE o nazwach: IntelliJ IDEA, Eclipse, NetBeans jest programowania w języku:",
+      "options": [
+        "A. C#",
+        "B. C++",
+        "C. Python",
+        "D. Java"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "46. Która z cech przycisków typu Radio-button wyspecyfikowanych w prezentowanym fragmencie dokumentacji jest prawdziwa?",
+      "options": [
+        "A. Etykieta (label) może być umieszczona tylko po przycisku radio-button.",
+        "B. Przyciski radio-button są grupowane w elemencie o nazwie .",
+        "C. Właściwość labelPosition przyjmuje jedną z dwóch wartości.",
+        "D. Właściwość value radio grupy przechowuje tekst podpisu dla każdego radio-button."
+      ],
+      "correct": 2,
+      "image": "inf04/47.jpg"
+    },
+    {
+      "question": "47. Którą nazwę kontrolki należy zapisać w pierwszej linii kodu, w miejscu A. SeekBarB. SwitchC. SpinnerD. RatingBar",
+      "options": [
+        "A. SeekBar",
+        "B. Switch",
+        "C. Spinner",
+        "D. RatingBar"
+      ],
+      "correct": "A. A",
+      "image": "B. B"
+    },
+    {
+      "question": "48. W przedstawionym kodzie zdefiniowano abstrakcyjną klasę figura i dziedziczącą po niej klasę prostokąta ze zdefiniowanymi polami i konstruktorami. Wskaż minimalną implementację sekcji /* metody klasy */ dla klasy Prostokat:",
+      "options": [
+        "A. A",
+        "B. B",
+        "C. C",
+        "D. D"
+      ],
+      "correct": 0,
+      "image": "inf04/49.jpg"
+    },
+    {
+      "question": "49. Obsługę wyjątku, który wygenerowała aplikacja należy zdefiniować w sekcji",
+      "options": [
+        "A. catch",
+        "B. try",
+        "C. throw",
+        "D. finally"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "50. W języku C# szablon List implementuje funkcjonalność listy. Z inicjalizacji obiektu wykaz wynika, że jego elementami są:",
+      "options": [
+        "A. liczby całkowite",
+        "B. liczby rzeczywiste",
+        "C. elementy typu List",
+        "D. elementy o niezdefiniowanym typie"
+      ],
+      "correct": 0,
+      "image": "inf04/51.jpg"
+    },
+    {
+      "question": "51. Która metodyka zarządzania projektem jest optymalna, gdy zakres projektu w początkowej fazie nie jest do końca znany, wymagania mogą ulec zmianie w trakcie trwania projektu oraz mogą pojawić się nowe wymagania?",
+      "options": [
+        "A. Model kaskadowy",
+        "B. Model V",
+        "C. Agile",
+        "D. PRINCE2"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "52. Aplikacja mobilna wyświetla listę, której każdy z elementów może być dotknięty palcem, aby wyświetlić jego szczegóły. Zdarzenie odpowiadające tej akcji to",
+      "options": [
+        "A. value changed.",
+        "B. button clicked.",
+        "C. tapped.",
+        "D. toggled."
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "53. Założenie programowania obiektowego polegające na ukrywaniu składowych klasy tak, aby były one dostępne tylko metodom tej klasy lub funkcjom zaprzyjaźnionym, to",
+      "options": [
+        "A. dziedziczenie.",
+        "B. wyjątki.",
+        "C. polimorfizm.",
+        "D. hermetyzacja."
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "54. Które zdarzenie jest wygenerowane, gdy nieaktywne okno lub kontrolka zostaje kliknięta myszą?",
+      "options": [
+        "A. blur.",
+        "B. keyup.",
+        "C. validating.",
+        "D. focus."
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "55. Przedstawiony fragment programu w języku C# generuje hasło. Wskaż zdanie PRAWDZIWE określające własność tego hasła:",
+      "options": [
+        "A. Może zawierać małe i wielkie litery, cyfry oraz symbole.",
+        "B. Może zawierać małe i wielkie litery oraz cyfry.",
+        "C. Jest co najwyżej 7-znakowe, co wyznacza zmienna i.",
+        "D. Jest 8 znakowe lub dłuższe oraz zawiera małe i wielkie litery oraz cyfry."
+      ],
+      "correct": 1,
+      "image": "inf04/56.jpg"
+    },
+    {
+      "question": "56. Przedstawiony zapis w języku Python prezentuje:",
+      "options": [
+        "A. strukturę",
+        "B. kolejkę (LIFO)",
+        "C. stos",
+        "D. tablicę asocjacyjną (słownik)"
+      ],
+      "correct": 3,
+      "image": "inf04/57.jpg"
+    },
+    {
+      "question": "57. Strategia budowania algorytmu poprzez podział na dwa lub więcej mniejszych podproblemów tak długo, aż fragmentu staną się proste do bezpośredniego rozwiązania jest metodą:",
+      "options": [
+        "A. heurystyczną",
+        "B. komiwojażera",
+        "C. dziel i zwyciężaj",
+        "D. najkrótszej ścieżki"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "58. Z tabeli przedstawiającej złożoność obliczeniową algorytmów sortowania na dowolnym, dużym, zbiorze wejściowym (ponad 100 elementów) wynika, że najszybszą metodą jest algorytm sortowania:",
+      "options": [
+        "A. przez scalanie",
+        "B. bąbelkowego",
+        "C. przez zliczanie",
+        "D. kubełkowego"
+      ],
+      "correct": 2,
+      "image": "inf04/59.jpg"
+    },
+    {
+      "question": "59. Zadaniem interpretera jest:",
+      "options": [
+        "A. analizowanie składni całego programu przed jego uruchomieniem",
+        "B. wykonanie skryptu instrukcja po instrukcji",
+        "C. optymalizowanie większej części kodu, w celu szybszego wykonania",
+        "D. przetłumaczenie kodu na kod maszynowy"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "60. W tabeli przedstawiono doświadczenie zawodowe pracowników firmy IT. Do zbudowania aplikacji front-end powinien/powinna zostać przydzielony/przydzielona:",
+      "options": [
+        "A. Ewa",
+        "B. Anna",
+        "C. Patryk",
+        "D. Krzysztof"
+      ],
+      "correct": 3,
+      "image": "inf04/61.jpg"
+    },
+    {
+      "question": "61. W przedstawionym fragmencie kodu Java wskaż nazwę zmiennej, która będzie w stanie przechowywać wartość 'T'",
+      "options": [
+        "A. zm1",
+        "B. zm2",
+        "C. zm4",
+        "D. zm3"
+      ],
+      "correct": 3,
+      "image": "inf04/62.jpg"
+    },
+    {
+      "question": "62. Przedstawione w filmie działania wykorzystują narzędzie",
+      "options": [
+        "A. debugera analizującego wykonywany kod",
+        "B. kreatora kodu java",
+        "C. kreatora GUI tłumaczącego kod do języka XAML",
+        "D. kompilatora interfejsu graficznego"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "63. Reguła zaangażowania i konsekwencji jako jedna z reguł wywierania wpływu wiąże się",
+      "options": [
+        "A. z odwdzięczeniem się osobie, która wyświadczyła nam przysługę",
+        "B. z sugerowaniem się opinią danej społeczności",
+        "C. z doprowadzeniem spraw do końca",
+        "D. z posłuszeństwem wobec autorytetów"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "64. W językach C++ lub C# słowo kluczowe virtual można stosować do",
+      "options": [
+        "A. pól klasy",
+        "B. konstruktorów",
+        "C. metod klasy",
+        "D. funkcji zaprzyjaźnionych"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "65. Narzędziem dedykowanym do implementacji aplikacji w środowisku WPf (ang. Windows Presentation Foundation) jest",
+      "options": [
+        "A. Visual Studio",
+        "B. NetBeans",
+        "C. PyCharm",
+        "D. XamarinStudio"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "66. Przedstawiony symbol przedstawia",
+      "options": [
+        "A. Creative Commons",
+        "B. domenę publiczną",
+        "C. prawa autorskie",
+        "D. prawo cytatu"
+      ],
+      "correct": 1,
+      "image": "inf04/67.jpg"
+    },
+    {
+      "question": "67. Zastosowanie modyfikatora abstract w definicji metody klasy oznacza, że",
+      "options": [
+        "A. w klasie tej należy zaimplementować tę metodę",
+        "B. nie można dziedziczyć po tej klasie",
+        "C. w klasach dziedziczących nie wolno implementować tej metody",
+        "D. klasa ta jest bazowa dla innych klas"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "68. Wskaż rodzaj testów, które przeprowadza się podczas fazy tworzenia kodu źródłowego",
+      "options": [
+        "A. testy wydajnościowe",
+        "B. testy kompatybilności",
+        "C. testy wdrożeniowe",
+        "D. testy jednostkowe"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "69. Jedną z wytycznych standardu WCAG 2.0 jest",
+      "options": [
+        "A. unikanie zapisu informacji w formie uproszczonej",
+        "B. zmniejszanie zawartości strony poprzez zaniechanie stosowania alternatyw tekstowych dla obrazów i video",
+        "C. stosowanie kilku schematów kolorystycznych, w tym bardzo kontrastowego",
+        "D. stosowanie jednego, odpowiednio dużego rozmiaru czcionki"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "70. Wskaż niestabilny algorytm sortowania",
+      "options": [
+        "A. sortowanie bąbelkowe",
+        "B. sortowanie przez wstawianie",
+        "C. sortowanie szybkie",
+        "D. sortowanie przez zliczanie"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "71. Przedstawiona deklaracja zmiennych zapisanych językiem JAVA obejmuje",
+      "options": [
+        "A. dwie zmienne typu napisowego, dwie typu całkowitego i jedną logiczną",
+        "B. dwie zmienne typu strukturalnego",
+        "C. jedną zmienną typu napisowego, dwie typu całkowitego, jedną znakowego i jedną logiczną",
+        "D. jedną zmienną typu napisowego, jedną typu rzeczywistego, jedną całkowitego, jedną znakowego i jedną logiczną"
+      ],
+      "correct": 2,
+      "image": "inf04/72.jpg"
+    },
+    {
+      "question": "72. Z przedstawionej definicji pola licznik można wywnioskować, że",
+      "options": [
+        "A. aktualna wartość pola jest wspólna dla wszystkich instancji klasy i nie może być modyfikowana",
+        "B. aktualna wartość pola jest wspólna dla wszystkich instancji klasy",
+        "C. pole jest powiązane z daną instancją klasy i jego wartość jest charakterystyczna tylko dla tej instancji",
+        "D. pole nie może być modyfikowane w kodzie klasy"
+      ],
+      "correct": 1,
+      "image": "inf04/73.jpg"
+    },
+    {
+      "question": "73. Aby w aplikacji Web zaimplementować mechanizm gromadzenia na komputerach użytkowników danych statystycznych, można zastosować",
+      "options": [
+        "A. buforowanie",
+        "B. ciasteczka",
+        "C. sesje",
+        "D. formularze"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "74. Zakładając, że przedstawiona hierarchia klas reprezentuje figury geometryczne została prawidłowo zaimplementowana funkcjonalnie, a każda z możliwych figur zawiera metodę liczenia pola, to sposób deklaracji metody liczPole() wskazuje, że znajduje się ona w klasie",
+      "options": [
+        "A. figura",
+        "B. trapez",
+        "C. czworokąt",
+        "D. trójkąt"
+      ],
+      "correct": 0,
+      "image": "inf04/75.jpg"
+    },
+    {
+      "question": "75. Z przedstawionego fragmentu kodu można wywnioskować, że element o nazwie rysunek jest",
+      "options": [
+        "A. konstruktorem",
+        "B. polem klasy",
+        "C. metodą klasy",
+        "D. obiektem"
+      ],
+      "correct": 2,
+      "image": "inf04/76.jpg"
+    },
+    {
+      "question": "76. W aplikacji desktopowej zdefiniowano listę rozwijaną i przypisano cztery funkcje obsługujące zdarzenia tej kontrolki. Który komunikat zostanie wyświetlony w momencie wyboru w liście?",
+      "options": [
+        "A. Zdarzenie 3",
+        "B. Zdarzenie 4",
+        "C. Zdarzenie 1",
+        "D. Zdarzenie 2"
+      ],
+      "correct": 2,
+      "image": "inf04/77.jpg"
+    },
+    {
+      "question": "77. Programista chce dobrać najszybciej działający algorytm przetwarzania danych w swojej aplikacji. Na podstawie przedstawionej w tabeli złożoności obliczeniowej, należy wybrać algorytm numer",
+      "options": [
+        "A. 2 lub 3",
+        "B. 3",
+        "C. 4",
+        "D. 1 lub 5"
+      ],
+      "correct": 2,
+      "image": "inf04/78.jpg"
+    },
+    {
+      "question": "78. Frameworkiem umożliwiającym programowanie aplikacji desktopowych jest",
+      "options": [
+        "A. WPF",
+        "B. Symfony",
+        "C. Xamarin",
+        "D. Angular"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "79. Którą strukturę danych reprezentuje przedstawiony kod zapisany w języku C#?",
+      "options": [
+        "A. tablicę jednowymiarową",
+        "B. tablicę dwuwymiarową",
+        "C. stos",
+        "D. listę"
+      ],
+      "correct": 1,
+      "image": "inf04/80.jpg"
+    },
+    {
+      "question": "80. Przedstawiony listing zawiera pola pewnej klasy. Które pole (pola) są dostępne z poziomu programu głównego poprzez wywołanie postaci nazwaObiektu.nazwaPola?",
+      "options": [
+        "A. p1",
+        "B. p3 i p4",
+        "C. tylko p3",
+        "D. tylko p3, p4, p5"
+      ],
+      "correct": 2,
+      "image": "inf04/81.jpg"
+    },
+    {
+      "question": "81. Z której kolekcji należy skorzystać, aby przechowywać dane związane z elementem interfejsu użytkownika tak, aby element był ten informowany przez kolekcję o dodaniu, usunięciu lub zmianie jej elementu",
+      "options": [
+        "A. ObservableCollection",
+        "B. KeyedCollection",
+        "C. Collection",
+        "D. ReadOnlyCollection"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "82. Na funkcjonalnie równoważnych sobie listingach fragmentów aplikacji Angular i React.js jest utworzona lista punktowana, która zawiera",
+      "options": [
+        "A. tyle elementów, ile jest elementów w tablicy books, w każdym punkcie listy jest jeden element tablicy",
+        "B. tyle elementów, ile jest elementów w tablicy books, w każdym punkcie listy jest element o treści {book}",
+        "C. tylko jeden element o treści Harry Potter, Hobbit, Władca pierścieni",
+        "D. tylko jeden element o treści Harry Potter"
+      ],
+      "correct": 0,
+      "image": "inf04/83.jpg"
+    },
+    {
+      "question": "83. W środowisku do tworzenia aplikacji, którego menu zostało przedstawione, aby usunąć wszystkie pliki pośrednie i wyjściowe projektu należy wybrać opcję",
+      "options": [
+        "A. Run Code Analysis on Solution",
+        "B. Batch Build",
+        "C. Build Solution",
+        "D. Clean Solution"
+      ],
+      "correct": 3,
+      "image": "inf04/84.jpg"
+    },
+    {
+      "question": "84. Pierwszym etapem tworzenia aplikacji jest",
+      "options": [
+        "A. utworzenie przypadków testowych",
+        "B. projekt architektury systemu",
+        "C. dobór zestawu typów i zmiennych dla aplikacji",
+        "D. analiza wymagań klienta"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "85. Według dokumentacji menu Navbar z biblioteki Bootstrap 4, aby utworzyć menu należy zdefiniować listę",
+      "options": [
+        "A. < ul class=\"a, .nav-item\" > ... < /ul>",
+        "B. < ol class=\"navbar-nav\" > ... < /ol>",
+        "C. < ol class=\"a, .nav-item\" > ... < /ol>",
+        "D. < ul class=\"navbar-nav\" > ... < /ul>"
+      ],
+      "correct": 3,
+      "image": "inf04/86.jpg"
+    },
+    {
+      "question": "86. W przedstawionym filmie ukazano kreator interfejsu użytkownika, dla którego automatycznie powstaje",
+      "options": [
+        "A. kod Java",
+        "B. obsługa wciśniętego przycisku",
+        "C. kod XML",
+        "D. obsługa przycisku ekranu dotykowego"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "87. Dziedziczenie jest stosowane, gdy istnieje potrzeba",
+      "options": [
+        "A. asynchronicznej obsługi długotrwałych operacji",
+        "B. definicji klasy bardziej specjalistycznej niż już zdefiniowana",
+        "C. stosowania wartości stałych, niezmiennych przez czas trwania aplikacji",
+        "D. zdefiniowania zakresu widzialności metod i pól jednej klasy"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "88. Wskaż frazę, która w języku angielskim oznacza \"testy wydajnościowe\"",
+      "options": [
+        "A. unit testing",
+        "B. performance testing",
+        "C. integration testing",
+        "D. security testing"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "89. Kod w języku JavaScript jest",
+      "options": [
+        "A. prototypem metody klasy",
+        "B. definicją zmiennej typu tablicowego",
+        "C. prototypem interfejsu",
+        "D. definicją funkcji strzałkowej"
+      ],
+      "correct": 3,
+      "image": "inf04/90.jpg"
+    },
+    {
+      "question": "90. Teoria ustalania celów opisuje właściwie określony cel jako SMART, od pierwszych liter słów: specyficzny, Mierzalny, Ambitny, Realny i Terminowy. Wskaż cel, którego osiągnięcie wymaga wysiłku i stanowi wyzwanie dla pracownika",
+      "options": [
+        "A. Mierzalny",
+        "B. Ambitny",
+        "C. Terminowy",
+        "D. Specyficzny"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "91. Co można obliczyć za pomocą przedstawionego algorytmu działającego na liczbach całkowitych dodatnich?",
+      "options": [
+        "A. sumę cyfr wczytanej liczby",
+        "B. liczbę cyfr we wczytanej liczbie",
+        "C. największy wspólny dzielnik wczytanej liczby",
+        "D. sumę wczytanych liczb"
+      ],
+      "correct": 1,
+      "image": "inf04/92.jpg"
+    },
+    {
+      "question": "92. Którego kodu może dotyczyć przedstawiona treść wygenerowana podczas uruchomienia programu Java>",
+      "options": [
+        "A. Kodu 4",
+        "B. Kodu 2",
+        "C. Kodu 3",
+        "D. Kodu 1"
+      ],
+      "correct": 0,
+      "image": "inf04/93.jpg"
+    },
+    {
+      "question": "93. Wskaż przykład wypadku przy pracy",
+      "options": [
+        "A. oparzenie ręki, które nastąpiło w czasie nieobowiązkowego doszkalania w czasie wolnym pracownika",
+        "B. złe samopoczucie wywołane przewlekła chorobą pracownika, które nastąpiło w miejscu pracy",
+        "C. uraz stawu skokowego, który nastąpił podczas bezpośredniej drogi do pracy",
+        "D. złamanie nogi podczas urlopu wypoczynkowego udzielonego przez pracodawcę"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "94. Która dokumentacja funkcji jest prawidłowa dla przedstawionego kodu źródłowego?",
+      "options": [
+        "A. Dokumentacja 1",
+        "B. Dokumentacja 3",
+        "C. Dokumentacja 4",
+        "D. Dokumentacja 2"
+      ],
+      "correct": 3,
+      "image": "inf04/95.jpg"
+    },
+    {
+      "question": "95. Przedstawiony zbiór operatorów należy do grupy operatorów",
+      "options": [
+        "A. arytmetycznych",
+        "B. przypisania",
+        "C. logicznych",
+        "D. porównania"
+      ],
+      "correct": 0,
+      "image": "inf04/96.jpg"
+    },
+    {
+      "question": "96. Który typ testów może być opisany przedstawionym scenariuszem",
+      "options": [
+        "A. testy wydajnościowe",
+        "B. testy jednostkowe",
+        "C. testy kompatybilności",
+        "D. testy funkcjonalne"
+      ],
+      "correct": 3,
+      "image": "inf04/97.jpg"
+    },
+    {
+      "question": "97. Którą wartość zwróci funkcja zapisana językiem C++, jeżeli jej parametr wejściowym jest tablica utworzona w następujący sposób: int tablica[6] = {3,4,2,4,10,0);?",
+      "options": [
+        "A. 10",
+        "B. 0",
+        "C. 23",
+        "D. 20"
+      ],
+      "correct": 2,
+      "image": "inf04/98.jpg"
+    },
+    {
+      "question": "98. Aby zaimplementować w aplikacji jednokierunkową funkcję skrótu tzw. funkcję haszującą można posłużyć się algorytmem",
+      "options": [
+        "A. DES",
+        "B. RSA",
+        "C. AES",
+        "D. MD5"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "99. Liczba A4 zapisana systemem heksadecymalnym ma postać binarną",
+      "options": [
+        "A. 1010100",
+        "B. 10100100",
+        "C. 10100010",
+        "D. 1011100"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "100. Wskaż uproszczony kod XAML dla kontrolek w przedstawionym oknie dialogowym",
+      "options": [
+        "A. Kod 3",
+        "B. Kod 1",
+        "C. Kod 2",
+        "D. Kod 4"
+      ],
+      "correct": 2,
+      "image": "inf04/101.jpg"
+    },
+    {
+      "question": "101. Przedstawiony kod napisany w języku XML/XAML definiuje",
+      "options": [
+        "A. stepper",
+        "B. listę rozwijaną",
+        "C. suwak",
+        "D. przełącznik"
+      ],
+      "correct": 3,
+      "image": "inf04/102.jpg"
+    },
+    {
+      "question": "102. Przedstawiony opis licencji w ramce wskazuje, że jest to licencja",
+      "options": [
+        "A. OEM",
+        "B. Open Source",
+        "C. Freeware",
+        "D. Shareware"
+      ],
+      "correct": 1,
+      "image": "inf04/103.jpg"
+    },
+    {
+      "question": "103. W wyniku wykonania przedstawionego kodu w konsoli wyświetlona zostanie liczba",
+      "options": [
+        "A. 108",
+        "B. 115",
+        "C. 73",
+        "D. 0"
+      ],
+      "correct": 1,
+      "image": "inf04/104.jpg"
+    },
+    {
+      "question": "104. Klasa w programowaniu obiektowym to",
+      "options": [
+        "A. zmienna",
+        "B. wskaźnik",
+        "C. instrukcja",
+        "D. typ danych"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "105. Przedstawiony kod funkcji \"wykonaj()\" sprawdza, czy",
+      "options": [
+        "A. wszystkie elementy tablicy są równe wartości określonego elementu (argument)",
+        "B. określony element (argument) znajduje się w tablicy zawierającej liczby całkowite",
+        "C. w tablicy liczb całkowitych znajdują się tylko wartości 4, 15, -2, 9, 202",
+        "D. określony element (argument) jest wartością z zakresu od 0 do 4"
+      ],
+      "correct": 1,
+      "image": "inf04/106.jpg"
+    },
+    {
+      "question": "106. Poprawna definicja konstruktora przedstawionej klasy w języku C++ może wyglądać jak w",
+      "options": [
+        "A. Deklaracji 1",
+        "B. Deklaracji 2",
+        "C. Deklaracji 3",
+        "D. Deklaracji 4"
+      ],
+      "correct": 0,
+      "image": "inf04/107.jpg"
+    },
+    {
+      "question": "107. Wywołanie funkcji zamien napisanej w języku C++ może wyglądać następująco",
+      "options": [
+        "A. zamien(12, 34);",
+        "B. zamien(*a, *b); //a,b - zmienne typu całkowitego",
+        "C. zamien(&a, &b); //x,y - zmienne typu całkowitego",
+        "D. zamien(m,n); //m,n - zmienne typu całkowitego"
+      ],
+      "correct": 2,
+      "image": "inf04/108.jpg"
+    },
+    {
+      "question": "108. W programie napisanym w języku C++ należy utworzyć zmienną, która przechowa liczbę rzeczywistą. Określ typ tej zmiennej",
+      "options": [
+        "A. int",
+        "B. double",
+        "C. number",
+        "D. numeric"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "109. Przedstawiony fragment opisuje funkcję resize języka C++. Funkcja ta zmniejszy długość elementu string, gdy wartość parametru",
+      "options": [
+        "A. c jest mniejsza niż bieżąca długość łańcucha",
+        "B. n jest mniejsza niż bieżąca długość łańcucha",
+        "C. n jest większa niż bieżąca długość łańcucha",
+        "D. c jest większa niż bieżąca długość łańcucha"
+      ],
+      "correct": 1,
+      "image": "inf04/110.jpg"
+    },
+    {
+      "question": "110. Co stanie się po wykonaniu przedstawionego fragmentu kodu napisanego w języku C++?",
+      "options": [
+        "A. do tablicy liczby, na jej początku, dodawane są kolejne wartości",
+        "B. z tablicy liczby usuwane są elementy, za każdym obiegiem pętli usuwany jest element z jej końca",
+        "C. z tablicy liczby usuwane są elementy, za każdym obiegiem pętli usuwany jest element z jej początku",
+        "D. do tablicy liczby, na jej końcu, dodawane są kolejne wartości"
+      ],
+      "correct": 3,
+      "image": "inf04/111.jpg"
+    },
+    {
+      "question": "111. Na rysunku przedstawiony jest fragment schematu blokowego pewnego algorytmu. Ile razy zostanie sprawdzony warunek n<7?",
+      "options": [
+        "A. 8",
+        "B. 5",
+        "C. 7",
+        "D. 6"
+      ],
+      "correct": 3,
+      "image": "inf04/112.jpg"
+    },
+    {
+      "question": "112. Które narzędzie programistyczne służy do tłumaczenia kodu źródłowego do postaci zrozumiałej dla komputera, sprawdza wszystkie instrukcje kodu, czy nie występują w nich błędy, a następnie tworzy wykonywalny moduł?",
+      "options": [
+        "A. interpreter",
+        "B. kompilator",
+        "C. debugger",
+        "D. dekompilator"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "113. Przedstawiona dokumentacja opisuje algorytm sortowania",
+      "options": [
+        "A. szybkiego (Quicksort)",
+        "B. przez wybór",
+        "C. przez wstawianie",
+        "D. bąbelkowe"
+      ],
+      "correct": 3,
+      "image": "inf04/114.jpg"
+    },
+    {
+      "question": "114. Pracując w grupie i dbając o jej poprawne funkcjonowanie, nie należy",
+      "options": [
+        "A. wzajemnie się motywować",
+        "B. rzetelnie i na czas wywiązywać się ze swoich zobowiązań",
+        "C. dbać wyłącznie o własny interes",
+        "D. brać odpowiedzialność za podejmowane działania"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "115. Który blok kodu zawiera przykład użycia rekurencji?",
+      "options": [
+        "A. Blok 1",
+        "B. Blok 3",
+        "C. Blok 4",
+        "D. Blok 2"
+      ],
+      "correct": 0,
+      "image": "inf04/116.jpg"
+    },
+    {
+      "question": "116. Programy działające w systemach Android wykorzystują do interakcji z użytkownikiem klasę",
+      "options": [
+        "A. Activity",
+        "B. Screens",
+        "C. Fragments",
+        "D. Windows"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "117. W wyniku wykonania przedstawionego kodu napisanego w języku C++ w konsoli zostanie wyświetlony ciąg liczb",
+      "options": [
+        "A. 1 2 3 4 5 6",
+        "B. 2 3 4 5 6 7",
+        "C. 1 2 3 4 5",
+        "D. 2 3 4 5 6"
+      ],
+      "correct": 3,
+      "image": "inf04/118.jpg"
+    },
+    {
+      "question": "118. Do form przekazu werbalnego należy",
+      "options": [
+        "A. mówienie",
+        "B. wyraz twarzy",
+        "C. pozycja ciała",
+        "D. gestykulacja"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "119. Przy pomocy którego obiektu można utworzyć kontrolkę wskazaną strzałką na obrazie?",
+      "options": [
+        "A. Windows - dla biblioteki WPF; JFrame - dla biblioteki Swing",
+        "B. Text - dla biblioteki WPF; JText - dla biblioteki Swing",
+        "C. Box - dla biblioteki WPF; JField - dla biblioteki Swing",
+        "D. TextBox - dla biblioteki WPF; JTextField - dla biblioteki Swing"
+      ],
+      "correct": 3,
+      "image": "inf04/120.jpg"
+    },
+    {
+      "question": "120. Co zostanie wyświetlone po wykonaniu przedstawionego kodu zapisanego w języku C++?",
+      "options": [
+        "A. Pochodna. Pochodna.",
+        "B. Bazowa. Pochodna.",
+        "C. Pochodna. Bazowa.",
+        "D. Bazowa. Bazowa."
+      ],
+      "correct": 0,
+      "image": "inf04/121.jpg"
+    },
+    {
+      "question": "121. W przedstawionym kodzie zostało zaprezentowane jedno z podstawowych założeń programowania obiektowego. Jest to",
+      "options": [
+        "A. polimorfizm",
+        "B. abstrakcja",
+        "C. dziedziczenie",
+        "D. hermetyzacja"
+      ],
+      "correct": 2,
+      "image": "inf04/122.jpg"
+    },
+    {
+      "question": "122. Framework Angular został napisany w języku",
+      "options": [
+        "A. Postscript",
+        "B. PHP",
+        "C. Typescript",
+        "D. C#"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "123. Jedną z możliwości testów funkcjonalnych wykonywanych na aplikacji webowej jest sprawdzenie",
+      "options": [
+        "A. bezpieczeństwa aplikacji",
+        "B. stopnia optymalizacji kodu aplikacji",
+        "C. wydajności aplikacji",
+        "D. poprawności wyświetlanych elementów aplikacji"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "124. Wyróżnione elementy w przedstawionych ramkach mają za zadanie",
+      "options": [
+        "A. pobranie nazwy obiektu reprezentującego okno aplikacji",
+        "B. ustawienie nazwy obiektu reprezentującego okno aplikacji",
+        "C. ustawienie tytułu okna na \"Tekst\"",
+        "D. zapisanie tytułu okna do obiektu Tekst"
+      ],
+      "correct": 2,
+      "image": "inf04/125.jpg"
+    },
+    {
+      "question": "125. Jaki będzie efekt działania przedstawionych dwóch równoważnych funkcjonalnie fragmentów kodu źródłowego?",
+      "options": [
+        "A. wyświetlony na stronie tekst w akapicie: \"Egzamin zawodowy\"",
+        "B. wyświetlony na stronie tekst w nagłówku: \"Egzamin zawodowy\"",
+        "C. nadany tytuł każdego elementu HTML: \"Egzamin zawodowy\"",
+        "D. nadany tytuł strony: \"Egzamin zawodowy\""
+      ],
+      "correct": 1,
+      "image": "inf04/126.jpg"
+    },
+    {
+      "question": "126. Jaki kwalifikator należy nadać metodzie, aby dostęp do niej był możliwy tylko z ciała tej klasy i klas potomnych,a jednocześnie, żeby ta metoda nie była dostępna w dowolnej funkcji?",
+      "options": [
+        "A. public",
+        "B. private",
+        "C. reinterpret_cast",
+        "D. protected"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "127. Co zostanie zapisane w etykiecie label po wykonaniu przedstawionego kodu, uruchomionego po kliknięciu w przycisk okna aplikacji?",
+      "options": [
+        "A. suma liczb parzystych z przedziału od 0 do 100",
+        "B. liczby parzyste z przedziału od 0 do 100",
+        "C. suma liczb z przedziału od 0 do 100",
+        "D. liczby z przedziału od 0 do 100"
+      ],
+      "correct": 0,
+      "image": "inf04/128.jpg"
+    },
+    {
+      "question": "128. Szkodliwe oprogramowanie, zaprojektowane w celu zapewnienia hakerom uprawnień administracyjnych do komputera ofiary bez jej wiedzy, to",
+      "options": [
+        "A. wirus",
+        "B. keylogger",
+        "C. robak",
+        "D. rootkit"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "129. Po wykonaniu przedstawionego kodu zapisanego w języku C++ na ekranie konsoli zostanie wyświetlony tekst:",
+      "options": [
+        "A. \"%s dodawania: %d + %.2f=%f\", \"Wynik\", a, b, w ",
+        "B. dodawania: 5+5.12345=10.123450 Wynik ",
+        "C. Wynik dodawania: 5+5.12=10.123450 ",
+        "D. \"%s dodawania: %d + %.2f = %f\", \"Wynik\", 5, 5.12345, 10.123450 "
+      ],
+      "correct": 2,
+      "image": "inf04/130.jpg"
+    },
+    {
+      "question": "130. Jaki ciąg tekstowy zostanie wyświetlony po wykonaniu jednego z przedstawionych kodów?",
+      "options": [
+        "A. {{2+2}}",
+        "B. {2+2}",
+        "C. 4",
+        "D. {4}"
+      ],
+      "correct": 2,
+      "image": "inf04/131.jpg"
+    },
+    {
+      "question": "131. W języku Java wyjątek ArrayIndexOutOfBoundsException może pojawić się w sytuacji odwołania się do elementu tablicy, którego",
+      "options": [
+        "A. wartość jest większa niż rozmiar tablicy",
+        "B. indeks jest równy lub większy od rozmiaru tablicy",
+        "C. indeks jest z przedziału od 0 do n-1, gdzie n jest rozmiarem tablicy",
+        "D. wartość jest większa niż jego indeks"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "132. Resuscytacja krążeniowo-oddechowa polega na wykonywaniu",
+      "options": [
+        "A. 10 uciśnięć klatki piersiowej i 5 oddechów ratowniczych",
+        "B. 15 uciśnięć klatki piersiowej i 3 oddechów ratowniczych",
+        "C. 30 uciśnięć klatki piersiowej i 2 oddechów ratowniczych",
+        "D. 20 uciśnięć klatki piersiowej i 1 oddechu ratowniczego"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "133. Przedstawiony na filmie kod napisany w języku C++ nie kompiluje się. Co należy zmienić w tym kodzie, aby proces kompilacji wykonał się bez błędów?",
+      "options": [
+        "A. dodać deklarację funkcji sprawdz przed funkcją main",
+        "B. zapisać poprawnie warunek w instrukcji if w linii 11, np. sprawdz(x)==true",
+        "C. poprawić błąd w funkcji sprawdz, polegający na braku nawiasów {} w pętli for",
+        "D. zadeklarować zmienną sprawdz przed jej użyciem w linii 11"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "134. Która metoda biblioteki jQuery języka JavaScript odpowiada za naprzemienne dodawanie i usuwanie klasy elementu?",
+      "options": [
+        "A. .toggleClass()",
+        "B. .switchClass()",
+        "C. .changeClass()",
+        "D. .bingClass()"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "135. Framework to",
+      "options": [
+        "A. platforma programistyczna dostarczająca pewne komponenty i narzucająca pewien szkielet lub metodykę tworzenia aplikacji",
+        "B. zbiór podprogramów, danych i złożonych typów danych wykorzystywanych w kodzie źródłowym aplikacji",
+        "C. oprogramowanie, które metodą drag and drop umożliwia utworzenie interfejsu aplikacji",
+        "D. narzędzie służące do tworzenia, modyfikowania, testowania i uruchamiania oprogramowania"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "136. Diagram Gantta jest stosowany w celu",
+      "options": [
+        "A. obrazowania funkcjonalności systemu",
+        "B. szczegółowej analizy czasowo-kosztowej projektu",
+        "C. planowania i zarządzania projektem",
+        "D. wizualizacji zależności między elementami systemów"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "137. Jednym z zadań widoku we wzorcu MVVM (Model_View-Viewmodel) jest",
+      "options": [
+        "A. obsługa logiki aplikacji - zawiera implementację algorytmów",
+        "B. obsługa interakcji użytkownika, utworzenie interfejsu użytkownika",
+        "C. udostępnianie danych dla widoku oraz wymiana danych z modelem",
+        "D. przechowywanie pobranych oraz przetworzonych danych"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "138. Jednostką zalecaną przy tworzeniu układu interfejsu aplikacji jest",
+      "options": [
+        "A. mm",
+        "B. px",
+        "C. dp",
+        "D. pt"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "139. Które logo przedstawia narzędzie, którego nie wykorzystuje się do tworzenia aplikacji mobilnych",
+      "options": [
+        "A. 4",
+        "B. 1",
+        "C. 3",
+        "D. 2"
+      ],
+      "correct": 3,
+      "image": "inf04/140.jpg"
+    },
+    {
+      "question": "140. Frameworki/biblioteki typowe dla aplikacji webowych to",
+      "options": [
+        "A. ASP.NET Core, jQuery, Joomla!, Wordpress, Angular",
+        "B. jquery, Joomla!, Wordpress, android Studio, Xamarin",
+        "C. ASP.NET Core, Django, Angular, React.js, Node.js",
+        "D. Visual Studio, Eclipse, angular, React.js, Node.js"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "141. Jak zaimportować tylko komponent z biblioteki React?",
+      "options": [
+        "A. import React.Component from 'react'",
+        "B. import [ Component ] from 'react'",
+        "C. import Component from 'react'",
+        "D. import { Component } from 'react'"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "142. W wyniku wykonania przedstawionego kodu zostaną wypisane",
+      "options": [
+        "A. elementy tablicy o następujących indeksach: 1, 2, 4, 5, 7, 8",
+        "B. elementy spod indeksów tablicy podzielnych przez 3",
+        "C. wszystkie elementy tablicy, które są podzielne przez 3",
+        "D. wszystkie nieparzyste elementy tablicy"
+      ],
+      "correct": 0,
+      "image": "inf04/142.jpg"
+    },
+    {
+      "question": "143. W firmie IT obowiązują przedstawione wytyczne dotyczące zarządzania projektami, Wynika z nich, że firma stosuje model zarządzania",
+      "options": [
+        "A. prototypowy",
+        "B. zwinny",
+        "C. kaskadowy",
+        "D. spiralny"
+      ],
+      "correct": 1,
+      "image": "inf04/143.jpg"
+    },
+    {
+      "question": "144. Aby zastosować framework Django należy programować w języku",
+      "options": [
+        "A. C#",
+        "B. JavaScript",
+        "C. Python",
+        "D. Java"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "145. Wskaż wspólną cechę wszystkich kontrolek przedstawionych w ramce",
+      "options": [
+        "A. wszystkie są widoczne",
+        "B. mają tło tego samego koloru",
+        "C. mają ten sam kolor czcionki",
+        "D. są w nich ustawione te same wartości domyślne"
+      ],
+      "correct": 1,
+      "image": "inf04/145.jpg"
+    },
+    {
+      "question": "146. Aby programować aplikacje desktopowe za pomocą języka Java można wybrać środowisko",
+      "options": [
+        "A. NetBeans",
+        "B. SharpDevelop",
+        "C. PyCharm",
+        "D. Ms Visual Studio"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "147. Przedstawiona pętla wykorzystuje obiekt random do",
+      "options": [
+        "A. wielokrotnego losowania liczby, aby utworzyć napis składający się z liczb pseudolosowych",
+        "B. wypełnienia tablicy wynik liczbami pseudolosowymi",
+        "C. pojedynczego wylosowania znaki z podanej puli znaków",
+        "D. wygenerowania 8-znakowego losowego napisu składającego się z liter"
+      ],
+      "correct": 2,
+      "image": "inf04/147.jpg"
+    },
+    {
+      "question": "148. Ryzykiem zawodowym nazywa się",
+      "options": [
+        "A. zagrożenie wypadkowe występujące na stanowisku pracy",
+        "B. skutki zagrożeń wypadkowych wystepujących na stanowisku pracy",
+        "C. ciężkość następstw niepożądanych zdarzeń związanych z wykonywaną pracą",
+        "D. prawdopodobieństwo wystąpienia niepożądanych zdarzeń związanych z wykonywaną pracą, powodujących straty, w szczególności wystąpienia u pracowników niekorzystnych skutków zdrowotnych"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "149. Który system operacyjny jest natywnym systemem do tworzenia aplikacji mobilnych w języku Swift?",
+      "options": [
+        "A. iOS",
+        "B. LG UX",
+        "C. Android",
+        "D. Windows UWP"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "150. Które wyrażenie logiczne należy zastosować, aby sprawdzić czy zmienna x przechowuje wartości ujemne albo z przedziału (10, 100)",
+      "options": [
+        "A. x > 10 || x < 100 || x < 0",
+        "B. (x > 10 && x < 100) || x < 0",
+        "C. x > 10 || x < 100 || x < 0",
+        "D. (x > 10 || x < 100) && x < 0"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "151. Odpowiednikami zmiennych i funkcji programowania strukturalnego są w programowaniu obiektowym",
+      "options": [
+        "A. pola i metody",
+        "B. metody statyczne i abstrakcyjne",
+        "C. hermetyzacja i dziedziczenia",
+        "D. pola i kwalifikatory dostępu"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "152. Za pomocą React.js i Angular zapisano funkcjonalnie równoważne kody źródłowe. Aby w metodzie handleSubmit można było wyświetlić zawartość kontrolki input w miejscu oznaczonym ??? należy odnieść się do atrybutu o nazwie",
+      "options": [
+        "A. nazwa4",
+        "B. nazwa2",
+        "C. nazwa1",
+        "D. nazwa3"
+      ],
+      "correct": 2,
+      "image": "inf04/152.jpg"
+    },
+    {
+      "question": "153. Który kod jest implementacją przedstawionego fragmentu algorytmu?",
+      "options": [
+        "A. Kod 1",
+        "B. Kod 2",
+        "C. Kod 3",
+        "D. Kod 4"
+      ],
+      "correct": 2,
+      "image": "inf04/153.jpg"
+    },
+    {
+      "question": "154. Dla podanego algorytmu złożoność obliczeniowa jest równa",
+      "options": [
+        "A. O(n log n)",
+        "B. O(n)",
+        "C. O(1)",
+        "D. O(n2)"
+      ],
+      "correct": 1,
+      "image": "inf04/154.jpg"
+    },
+    {
+      "question": "155. Wskaż kod funkcjonalnie równorzędny przedstawionemu",
+      "options": [
+        "A. Kod 1",
+        "B. Kod 2",
+        "C. Kod 3",
+        "D. Kod 4"
+      ],
+      "correct": 1,
+      "image": "inf04/155.jpg"
+    },
+    {
+      "question": "156. Środowiskiem dedykowanym do tworzenia aplikacji mobilnych dla urządzeń Apple i wykorzystującym do tego celu różne języki programowania w tym Java i Objective C jest ",
+      "options": [
+        "A. Android Studio",
+        "B. NetBeans",
+        "C. XCode",
+        "D. React Native"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "157. Przedstawiony symbol ochrony przeciwpożarowej oznacza",
+      "options": [
+        "A. tablicę rozdzielczą",
+        "B. alarm pożarowy",
+        "C. wyłącznik prądu",
+        "D. stanowisko zdalnego uwalniania"
+      ],
+      "correct": 1,
+      "image": "inf04/157.jpg"
+    },
+    {
+      "question": "158. Systemem kontroli wersji jest",
+      "options": [
+        "A. Trello",
+        "B. Jira",
+        "C. Git",
+        "D. Bugzilla"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "159. Sumą liczb binarnych 1101 i 1001 jest",
+      "options": [
+        "A. 1110",
+        "B. 10111",
+        "C. 1001",
+        "D. 10110"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "160. Wskaż cechę charakterystyczną dla metody abstrakcyjnej",
+      "options": [
+        "A. jest zawsze prywatna",
+        "B. jest pusta w klasach potomnych",
+        "C. jest zaimplementowana w klasie bazowej",
+        "D. jest pusta w klasie bazowej"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "161. Błędy interpretracji kodu wytworzonego za pomocą środowiska React.js lub Angular można śledzić przy pomocy",
+      "options": [
+        "A. wbudowanego w środowisko debuggera",
+        "B. konsoli przeglądarki internetowej",
+        "C. narzędzi zainstalowanych po stronie serwera aplikacji",
+        "D. kompilatora języka JavaScript"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "162. W standardzie dokumentacji testów oprogramowania IEEE 829-1998 jest opisany dokument, który zawiera informacje o tym, które przypadki testowania zostały użyte, kto je użył i czy powiodły się. Jest to",
+      "options": [
+        "A. Test Plan",
+        "B. Test Procedure Specification",
+        "C. Test Log",
+        "D. Test Summary Report"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "163. Klasie o nazwie samochod nadano cechy: marka, rocznik, parametry[]. Cechy te należy zdefiniować jako",
+      "options": [
+        "A. funckje",
+        "B. pola",
+        "C. interfejsy",
+        "D. metody"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "164. Błąd kompilacji \"incompatible types\" może zostać wygenerowany, gdy",
+      "options": [
+        "A. funkcja przyjmuje jako argument całkowitą, a wywołana została z napisem jako parametr",
+        "B. popełniono błąd podczas deklaracji zmiennej, zastosowano typ, który nie istnieje",
+        "C. zmiennej typu int została przypisana wartość 243",
+        "D. funkcja zwraca typ void, a podczas wywołania nie jest przypisana do żadnej zmiennej"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "165. Programista aplikacji mobilnych chce przekwalifikować się na pracownika Full-Stack Developer. Wskaż kurs, który powinien wybrać, aby było to możliwe",
+      "options": [
+        "A. Mastering Cross-platform Developping",
+        "B. Ultimate C# Serier from Beginner to Advanced",
+        "C. Complete JavaScript React, SQL, Node.js Cource",
+        "D. Raster and Vector Graphics with Adobe"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "166. Oznaczeniem komentarza wieloliniowego w języku Java jest",
+      "options": [
+        "A. /* ... */",
+        "B. <!-- ... -->",
+        "C. // ... //",
+        "D. \"\"\" ... \"\"\""
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "167. Wskaż numeryczne typy stałoprzecinkowe",
+      "options": [
+        "A. float, double",
+        "B. int, short, long",
+        "C. bool char, string",
+        "D. long long, long double"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "168. W którym języku programowania kod źródłowy programu, przed jego uruchomieniem, musi być skompilowany do kodu maszynowego konkretnej architektury procesora?",
+      "options": [
+        "A. PHP",
+        "B. Perl",
+        "C. Java",
+        "D. C++"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "169. Projektując aplikację zorientowaną obiektowo należy założyć, że program będzie sterowany za pomocą",
+      "options": [
+        "A. modułów z zawartymi w nich funkcjami i zmiennymi globalnymi",
+        "B. pętli dyspozytora, która w zależności od zdarzenia wywoła odpowiednią funkcję",
+        "C. definicji warunków końcowego rozwiązania",
+        "D. zbioru instancji klas współpracujących ze sobą"
+      ],
+      "correct": 3,
+      "image": null
+    },
+    {
+      "question": "170. Które stwierdzenie dotyczące pojęcia obiekt jest prawdziwe?",
+      "options": [
+        "A. obiekt jest typem złożonym",
+        "B. obiekt jest instancją klasy",
+        "C. obiekt i klasa są tożsame",
+        "D. obiekt umożliwia zdefiniowanie klasy"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "171. Która cecha wyróżnia framework od biblioteki?",
+      "options": [
+        "A. Framework determinuje architekturę aplikacji i dostarcza jej szkielet",
+        "B. Framework dostarcza funkcje użytkowe w danej dziedzinie problemu",
+        "C. Framework jest zbiorem funkcjonalności, które programista może wykorzystać",
+        "D. Framework dostarcza API do większego zestawu funkcji"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "172. Narzędziem do monitorowania procesu wykonywania zadań przez członków zespołu projektowego może być diagram",
+      "options": [
+        "A. Venna",
+        "B. Gantta",
+        "C. związków encji",
+        "D. aktywności UML"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "173. Jedną z chorób, która występuje u programistów na skutek długotrwałej pracy z myszą komputerową lub klawiaturą, chrakteryzującą się bólami, drętwieniem i zaburzeniami czucia w obszarze 1-3 palca ręki jest",
+      "options": [
+        "A. zespół cieśni kanału nadgarstka",
+        "B. zespół suchego oka",
+        "C. kifoza",
+        "D. dyskopatia"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "174. Aby zadeklarować pole, które będzie pełniło funkcję licznika instancji klasy, należy definicję takiego pola poprzedzić słowem kluczowym",
+      "options": [
+        "A. register",
+        "B. static",
+        "C. operator",
+        "D. virtual"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "175. Jeżeli w aplikacji występuje błąd działania, a programista musi sprawdzić wartości przechowywane w zmiennych, w danym momencie uruchomienia aplikacji, to należy do tego celu wykorzystać",
+      "options": [
+        "A. analizator składni",
+        "B. wirtualną maszynę",
+        "C. debugger",
+        "D. interpreter"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "176. Która lista typów obejmuje jedynie typy złożone?",
+      "options": [
+        "A. class, struct, float",
+        "B. char, struct, union",
+        "C. class, struct, union",
+        "D. unsigned, struct, float"
+      ],
+      "correct": 2,
+      "image": null
+    },
+    {
+      "question": "177. Liczba 1AF zapisana kodem szesnastkowym po przeliczeniu na kod dziesiętny wynosi",
+      "options": [
+        "A. 431",
+        "B. 6890",
+        "C. 26",
+        "D. 257"
+      ],
+      "correct": 0,
+      "image": null
+    },
+    {
+      "question": "178. Wewnątrz klasy pracownik zdefiniowano przedstawione metody. Do której z nich można zgodnie z jej przeznaczeniem dopisać element diagnostyczny o treści: cout << \"Obiekt został usunięty\";?",
+      "options": [
+        "A. operator==",
+        "B. pracownik",
+        "C. ~pracownik",
+        "D. wypisz"
+      ],
+      "correct": 2,
+      "image": "inf04/178.jpg"
+    },
+    {
+      "question": "179. Zmienna typy logicznego może przyjąć wartości:",
+      "options": [
+        "A. 1, -1",
+        "B. true, false",
+        "C. 0 oraz dowolną całkowitą",
+        "D. trzy dowolne naturalne"
+      ],
+      "correct": 1,
+      "image": null
+    },
+    {
+      "question": "180. Szablon MojaTablica implementuje funkcjonalność tablicy o indeksach różnego typu i elementach różnego typu. Na podstawie przedstawionego kodu, który wykorzystuje szablon do inicjacji tablicy asocjacyjnej wskaż definicję wykorzystującą szablon do utworzenia tablicy, w której indeksami są liczby całkowite a elementy napisy",
+      "options": [
+        "A. MojaTablica tab2 = MOjaTablica();",
+        "B. int tab2[] = new MojaTablica();",
+        "C. MojaTablica tab2 = new MojaTablica();",
+        "D. int tab2 = new MojaTablica();"
+      ],
+      "correct": 2,
+      "image": "inf04/180.jpg"
+    },
+    {
+      "question": "181. Na podstawie definicji przedstawionej w ramce wskaż, który rysunek przedstawia komponent Chip zdefiniowany w bibliotece Angular Material.",
+      "options": [
+        "A. Rysunek 1",
+        "B. Rysunek 2",
+        "C. Rysunek 3",
+        "D. Rysunek 4"
+      ],
+      "correct": 3,
+      "image": "inf04/181.jpg"
+    },
+    {
+      "question": "182. Na przedstawionych rysunkach znajduje się okno aplikacji w stanie początkowym oraz po wypełnieniu danych. Zakładając, że pole \"Dostępne środki\" jest przeznaczone do wprowadzania wartości typu rzeczywistego, wskaż składowe struktury, które optymalnie pasują do tych danych",
+      "options": [
+        "A. Kod 1",
+        "B. Kod 2",
+        "C. Kod 3",
+        "D. Kod 4"
+      ],
+      "correct": 1,
+      "image": "inf04/182.jpg"
+    }
+  ]
