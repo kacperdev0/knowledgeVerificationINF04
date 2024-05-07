@@ -1,9 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Typography } from "@mui/material";
-import AppBar from '@mui/material/AppBar';
-import Toolbar from '@mui/material/Toolbar';
-import Container from '@mui/material/Container';
-import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
 import { RadioGroup, Radio, FormControlLabel } from '@mui/material';
@@ -13,6 +8,7 @@ function Questions40({ allQuestions }) {
     const [selectedValues, setSelectedValues] = useState([]);
     const [data, setData] = useState([]);
     const [result, setResult] = useState(null);
+    const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
         const shuffledData = allQuestions.sort(() => Math.random() - 0.5);
@@ -21,7 +17,7 @@ function Questions40({ allQuestions }) {
 
         const correctAnswers = randomQuestions.map(question => question.correct);
         setCorrectOptions(correctAnswers);
-        console.log(correctAnswers);
+        setIsLoading(false)
     }, [allQuestions]);
 
     const handleChange = (event, questionIndex, optionIndex) => {
@@ -38,7 +34,7 @@ function Questions40({ allQuestions }) {
     const checkIfAnswersAreRight = () => {
         let c = 0
         selectedValues.map((value, index) => {
-            if (value == correctOptions[index]) {
+            if (value === correctOptions[index]) {
                 c = c + 1;
             }
         });
@@ -47,9 +43,13 @@ function Questions40({ allQuestions }) {
         window.scrollTo(0, 0);
     };
 
+    if (isLoading) {
+        return <></>
+    }
+
     return (
-        <div id="right-panel" style={{ padding: "4%", color: "rgb(63, 63, 63)" }}>
-            <h1>{result == null ? null : result + "%"}</h1>
+        <div id="right-panel" style={{ padding: "4%", color: "rgb(63, 63, 63)", width: "100%" }}>
+            <h1>{result === null ? null : result + "%"}</h1>
             {data.map((item, index) => (
                 <Card key={index} style={{ marginBottom: "1%", textAlign: "left", paddingLeft: "3%", paddingTop: "3%", paddingBottom: "3%" }}>
                     <p>{item.question}</p>

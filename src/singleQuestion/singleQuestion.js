@@ -1,9 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Typography } from "@mui/material";
-import AppBar from '@mui/material/AppBar';
-import Toolbar from '@mui/material/Toolbar';
-import Container from '@mui/material/Container';
-import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
 import { RadioGroup, Radio, FormControlLabel } from '@mui/material';
@@ -16,7 +11,7 @@ function SingleQuestion({ allQuestions }) {
 
     useEffect(() => {
         getRandomQuestion();
-    }, [allQuestions]);
+    }, []);
 
     const getRandomQuestion = () => {
         setIsRight(null);
@@ -39,7 +34,7 @@ function SingleQuestion({ allQuestions }) {
     return (
         <div id="right-panel" style={{ padding: "4%", color: "rgb(63, 63, 63)", width: "100%", height: "100%" }}>
             <div style={{height: "10vh"}}>
-                <h1>{isRight == null ? "Select Answer" : isRight == true ? "Correct Answer!" : "Incorrect Answer!"}</h1>
+                <h1>{isRight === null ? "Select Answer" : isRight === true ? <span style={{color: "green"}}>Correct Answer!</span> : <span style={{color: "red"}}>Incorrect Answer!</span>}</h1>
                 <Button variant="contained" onClick={getRandomQuestion}>
                         Another one
                 </Button>
